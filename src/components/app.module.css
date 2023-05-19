@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-family: 'Roboto';
+    padding: 20px;
+    gap: 30px;
+    align-items: center;
+  }
+  
+  .phonebook {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .contacts {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }

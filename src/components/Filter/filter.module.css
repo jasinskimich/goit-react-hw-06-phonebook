@@ -1,0 +1,14 @@
+.filter-input {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    font-size: 14px;
+    color: black;
+    gap: 20px;
+  }
+  
+  .label {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }

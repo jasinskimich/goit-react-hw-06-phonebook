@@ -1,0 +1,6 @@
+.contact-list {
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }

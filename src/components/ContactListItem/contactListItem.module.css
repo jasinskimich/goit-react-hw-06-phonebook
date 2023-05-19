@@ -1,0 +1,22 @@
+.item {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  .delete-button {
+    /* background-color: rgb(198, 194, 189); */
+    /* border: 1px solid rgba(0, 0, 0, 0.138); */
+    border: none;
+    background-color: white;
+    border-radius: 4px;
+    padding: 2px 4px;
+    font-family: 'Roboto';
+    color: #fff;
+    transition: background-color 100ms;
+    font-size: 8px;
+  }
+  .delete-button:hover {
+    background-color: rgb(198, 194, 189);
+    
+    transition: background-color 50ms;
+  }
